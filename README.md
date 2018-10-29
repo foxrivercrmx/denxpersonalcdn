@@ -1,0 +1,2 @@
+# denxpersonalcdn
+For personal use
